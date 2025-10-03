@@ -16,11 +16,14 @@
 - terraform output:
 
 # Terraform module structure:
+
+```
 .
-|--- LICENSE
-|--- README.md
-|--- main.tf
-|--- outputs.tf
-|--- terraform.tf
-|--- terraform.tfvars
-|--- variables.tf
+├── LICENSE
+├── README.md
+├── main.tf
+├── outputs.tf
+├── terraform.tf
+├── terraform.tfvars
+├── variables.tf
+```
