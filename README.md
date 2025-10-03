@@ -51,7 +51,7 @@ Install free open source manager to download terraform directly into your CLI
 ### **macOS**: Using Homebrew
 1. **Install Homebrew**. If you don't have Homebrew installed, open a **Terminal** and run the following command:
 ```
-# powershell
+# bash
 > /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 2. **Add HashiCorp tap**. To ensure you get the official version, add the HashiCorp tap to your Homebrew installation:
