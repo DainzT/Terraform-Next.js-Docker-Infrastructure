@@ -70,8 +70,6 @@ Install free open source manager to download terraform directly into your CLI
 > terraform -version
 ```
 
-# Navigate to infrastructure folder to read more about terraform:
-
 ## Terraform flow:
 
 - Scope -  Identify the infrastructure for your project.
@@ -102,3 +100,6 @@ Install free open source manager to download terraform directly into your CLI
 ├── terraform.tfvars
 ├── variables.tf
 ```
+
+👉 Navigate to the [`infrastructure/`](./infrastructure) folder to learn more about the Terraform configuration.  
+It contains all the files related to provisioning and managing the infrastructure.
