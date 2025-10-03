@@ -1,9 +1,9 @@
 # Terraform Next.js Docker Infrastructure
-This project demonstrates how to use Terraform to build and run a Next.js application inside a Docker container.
+This project showcases how Terraform can be used to automate the management and provisioning of Docker infrastructure for a Next.js application. It demonstrates the full lifecycle process: building, updating, and destroying the Docker-based environment.
 
 # Structure Overview
 ```
-terraform-nextjs-docker-infrastructure-nextjs/
+terraform-nextjs-docker-infrastructure/
 ├── infrastructure/
 │   ├── LICENSE
 │   ├── README.md
